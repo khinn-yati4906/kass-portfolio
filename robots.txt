@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khinn-yati4906.github.io/kass-portfolio/sitemap.xml
